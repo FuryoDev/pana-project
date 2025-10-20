@@ -1,0 +1,8 @@
+.vscode/
+.yarn/
+node_modules/
+/pkg
+/pkg.tgz
+.vscode/
+DEBUG-*
+*.log
