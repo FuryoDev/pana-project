@@ -185,7 +185,7 @@ child.on('error', (err) => {
     console.error('[host] child error:', err)
 })
 
-/* --------------------------------- REPL -------------------------------- */
+/* --------------------------------- REPL ----------git status---------------------- */
 
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout })
 console.log('\n[REPL] Tape un objet JSON à envoyer via IPC, ex:')
